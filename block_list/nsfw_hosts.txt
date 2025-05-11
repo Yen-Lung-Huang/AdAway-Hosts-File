@@ -1,3 +1,18 @@
+# NSFW Content Blocklist
+# NSFW domains and adult websites
+
+# Originally part of PornAway project
+# Licensed under The MIT License.
+# Last updated: May 12, 2025
+
+# This hosts file blocks access to websites containing adult content, pornography,
+# and other explicit material. It helps create a safer browsing environment
+# by preventing access to known adult websites.
+#
+# All entries redirect to 0.0.0.0, effectively blocking access to these domains.
+
+0.0.0.0  localhost
+::1  localhost
 
 0.0.0.0    0.nextyourcontent.com
 0.0.0.0    0.oldgyhogola.com
